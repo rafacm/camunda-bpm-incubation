@@ -1,7 +1,7 @@
 # camunda BPM incubation
 
 camunda BPM incubation is a space for camunda BPM platform extensions and other projects around open source BPM. 
-camunda BPM incubation projects are distributed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+camunda BPM incubation projects are developed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 ## List of current Incubation Projects
 
