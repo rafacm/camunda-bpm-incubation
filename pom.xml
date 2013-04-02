@@ -1,0 +1,29 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>org.camunda.bpm.incubation</groupId>
+  <artifactId>camunda-incubation-root</artifactId>
+  <version>7.0.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <name>camunda BPM incubation - Root</name>
+
+  <modules>
+    <!-- add incubation projects here -->
+  </modules>
+ 
+  <pluginRepositories>
+    <pluginRepository>
+      <id>maven central</id>
+      <url>http://repo1.maven.org/</url>
+    </pluginRepository>
+  </pluginRepositories>
+  
+  <repositories>
+    <repository>
+      <id>camunda-bpm-nexus</id>
+      <name>camunda-bpm-nexus</name>
+      <url>https://app.camunda.com/nexus/content/groups/public</url>
+    </repository>
+  </repositories>
+  
+</project>
